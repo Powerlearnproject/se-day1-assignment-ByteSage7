@@ -1,0 +1,67 @@
+Software engineering is the systematic application of engineering principles to the development of software. 
+It involves processes, methods, and tools for designing, developing, testing, deploying, and maintaining software systems 
+that are reliable, efficient, and scalable.
+
+1968 NATO Software Engineering Conference:
+  Marked the formal recognition of "software engineering" as a discipline.
+  Addressed the “software crisis” due to rapidly increasing complexity.
+
+Introduction of Object-Oriented Programming (OOP):
+    Languages like C++ and Java revolutionized how software was structured.
+    Promoted code reuse, modularity, and scalability.
+Agile Manifesto (2001):
+    Shifted focus from rigid processes to flexible, iterative development.
+    Emphasized collaboration, customer feedback, and rapid delivery.
+
+Requirement Analysis: Understanding what the client or user needs
+Design: Planning software architecture, components, and interfaces.
+Implementation (Coding): Translating design into functional code.
+Testing: Verifying and validating that the software works as intended.
+Deployment: Releasing the software to users.
+Maintenance: Ongoing updates, bug fixes, and improvements.
+
+Waterfall  is a linear, step-by-step approach where each phase must be completed before moving to the next. It is suitable for building a 
+hospital management system with fixed requirements.
+Agile is an iterative, flexible method that allows changes and frequent feedback throughout development.It fits an e-commerce platform that 
+needs continuous updates and user feedback.
+
+Software Developer:
+        Writes, tests, and maintains code.
+        Collaborates on design and implementation.
+
+Quality Assurance (QA) Engineer:
+        Designs test cases and ensures the software meets quality standards.
+        Performs manual and automated testing.
+Project Manager:
+        Oversees the project lifecycle.
+        Manages timelines, resources, and communication between teams and stakeholders.
+
+Integrated Development Environments (IDEs):
+    Provide tools for coding, debugging, and testing in one platform.
+    Examples: Visual Studio Code, IntelliJ IDEA, Eclipse.
+Version Control Systems (VCS):
+    Track changes to code, manage collaboration, and enable rollback.
+    Examples: Git, Subversion (SVN).
+
+Common Challenges Faced by Software Engineers
+    Changing Requirements: Clients may alter needs mid-project.
+    Strategy: Use Agile to accommodate changes iteratively.
+    Technical Debt: Poor code that must be rewritten later.
+    Strategy: Emphasize clean code and regular refactoring.
+    Team Communication: Misunderstandings between developers, testers, and clients.
+    Strategy: Hold regular stand-ups, use collaboration tools (e.g., Slack, Jira).
+
+Prompt engineering is the practice of crafting clear and effective inputs (prompts) to guide the behavior of AI models like ChatGPT. It’s essential for achieving 
+accurate, relevant, and high-quality responses from AI systems.
+
+Vague Prompt:
+"Tell me something about history."
+
+Improved Prompt:
+"Summarize the causes and effects of World War II in under 200 words."
+
+Why It’s Better:
+    Clear: Specifies a particular topic (World War II).
+    Specific: Focuses on causes and effects.
+    Concise: Sets a word limit for relevance and brevity.
+
